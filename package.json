@@ -1,0 +1,8 @@
+{
+  "name": "enricomarino-element-value",
+  "description": "Element get/set input values component",
+  "version": "0.0.2",
+  "dependencies": {
+    "enricomarino-element-type": "git://github.com/npmcomponent/enricomarino-element-type.git"
+  }
+}

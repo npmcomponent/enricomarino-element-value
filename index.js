@@ -10,7 +10,7 @@
  * Component dependencies
  */
 
-var type = require('element-type');
+var type = require('enricomarino-element-type');
 
 /**
  * Expose component
